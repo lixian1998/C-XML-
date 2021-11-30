@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students>
+	<Student>
+		<StuName>张三</StuName>
+		<StuAge>18</StuAge>
+		<Gender>1</Gender>
+		<ClassName>软件1班</ClassName>
+	</Student>
+	<Student>
+		<StuName>李四</StuName>
+		<StuAge>23</StuAge>
+		<Gender>1</Gender>
+		<ClassName>软件2班</ClassName>
+	</Student>
+	<Student>
+		<StuName>王五</StuName>
+		<StuAge>21</StuAge>
+		<Gender>1</Gender>
+		<ClassName>软件3班</ClassName>
+	</Student>
+</Students>

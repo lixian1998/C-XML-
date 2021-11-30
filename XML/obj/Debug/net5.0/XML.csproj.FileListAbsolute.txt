@@ -1,0 +1,17 @@
+F:\Project\XMLPro\XML\bin\Debug\net5.0\XML.exe
+F:\Project\XMLPro\XML\bin\Debug\net5.0\XML.deps.json
+F:\Project\XMLPro\XML\bin\Debug\net5.0\XML.runtimeconfig.json
+F:\Project\XMLPro\XML\bin\Debug\net5.0\XML.runtimeconfig.dev.json
+F:\Project\XMLPro\XML\bin\Debug\net5.0\XML.dll
+F:\Project\XMLPro\XML\bin\Debug\net5.0\ref\XML.dll
+F:\Project\XMLPro\XML\bin\Debug\net5.0\XML.pdb
+F:\Project\XMLPro\XML\obj\Debug\net5.0\XML.csproj.AssemblyReference.cache
+F:\Project\XMLPro\XML\obj\Debug\net5.0\XML.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\XMLPro\XML\obj\Debug\net5.0\XML.AssemblyInfoInputs.cache
+F:\Project\XMLPro\XML\obj\Debug\net5.0\XML.AssemblyInfo.cs
+F:\Project\XMLPro\XML\obj\Debug\net5.0\XML.csproj.CoreCompileInputs.cache
+F:\Project\XMLPro\XML\obj\Debug\net5.0\XML.dll
+F:\Project\XMLPro\XML\obj\Debug\net5.0\ref\XML.dll
+F:\Project\XMLPro\XML\obj\Debug\net5.0\XML.pdb
+F:\Project\XMLPro\XML\obj\Debug\net5.0\XML.genruntimeconfig.cache
+F:\Project\XMLPro\XML\bin\Debug\net5.0\Student.xml
